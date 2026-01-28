@@ -22,6 +22,11 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 * **C#**
 * **PHP**
 
+### 🧰 Framework
+* **Laravel**
+
+
+
 ### ☁️ Cloud & DevSecOps
 
 * **AWS** (Certified Cloud Practitioner)
