@@ -18,9 +18,9 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 
 ### 💻 Programming Languages
 
+* **PHP**
 * **Python**
 * **C#**
-* **PHP**
 
 ### 🧰 Framework
 * **Laravel**
@@ -33,15 +33,15 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 * **Docker**
 * **Kubernetes**
 * **Jenkins**
-* CI/CD concepts with a focus on **secure pipelines**
-
+* **CI/CD**
+  
 ### 🐧 Operating Systems
 
-* **Linux** (daily usage, server fundamentals, and security basics)
+* **Linux** (CLI,daily usage, server fundamentals, and security basics)
 
 ### 🔐 Cybersecurity (in progress)
 
 * Information Security fundamentals
 * Offensive Security concepts and vulnerability analysis
-* OSINT(Open-source intelligence)
+* **OSINT(Open-source intelligence)**
 * Web Hacking
