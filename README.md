@@ -23,7 +23,7 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 * **C#**
 
 ### 🧰 Framework
-* **Laravel**
+* **Laravel(Livewire,Sail,Horizon)**
 
 ### 🗃️ Databases
 * **SQL**
