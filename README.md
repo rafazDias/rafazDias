@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a technology student with hands-on experience as a **DevSecOps Intern at CompassUOL**, where I worked with secure development environments and cloud operations. Throughout my academic and professional journey, I have been focusing my studies on **cybersecurity**, with a strong interest in **offensive security**, vulnerability analysis, and back-end development.
+I am a technology student with hands-on experience as a **Full-Stack Intern at Aonet** and **DevsecOps intern at CompassUOL**, where I worked with secure development environments and cloud operations. Throughout my academic and professional journey, I have been focusing my studies on **cybersecurity**, with a strong interest in **offensive security**, vulnerability analysis, and back-end development.
 
 I am proactive, passionate about technology, and highly motivated to continuously learn and apply knowledge through practical projects. My goal is to grow professionally while contributing effectively to engineering and security teams.
 
@@ -25,7 +25,9 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 ### 🧰 Framework
 * **Laravel**
 
-
+### 🗃️ Databases
+* **SQL**
+* **PostgreSQL**
 
 ### ☁️ Cloud & DevSecOps
 
