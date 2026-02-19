@@ -2,7 +2,7 @@
 
 🎓 **Systems Analysis and Development student**
 
-🔐 **Aspiring Offensive Security Enthusiast** | DevSecOps | Back-end Development
+🔐 **Aspiring Offensive Security Enthusiast** | **DevSecOps** | **Back-end Development**
 
 ---
 
