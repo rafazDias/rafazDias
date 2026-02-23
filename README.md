@@ -28,7 +28,8 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 ### 🗃️ Databases
 * **SQL**
 * **PostgreSQL**
-
+* **Redis**
+  
 ### ☁️ Cloud & DevSecOps
 
 * **AWS** (Certified Cloud Practitioner)
