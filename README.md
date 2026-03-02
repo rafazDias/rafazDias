@@ -42,7 +42,7 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 
 * **Linux** (CLI,daily usage, server fundamentals, and security basics)
 
-### 🔐 Cybersecurity (in progress)
+### 🔐 Cybersecurity
 
 * Information Security fundamentals
 * Offensive Security concepts and vulnerability analysis
