@@ -49,7 +49,7 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 * **OSINT(Open-source intelligence)**
 * Web Hacking
 
-### Game Development
+### 🎮 Game Development
 
 * Godot
 * Pixel art
