@@ -2,13 +2,13 @@
 
 🎓 **Systems Analysis and Development student**
 
-🔐 **Aspiring Offensive Security Enthusiast** | **DevSecOps** | **Back-end Development**
+🔐 **Aspiring Game developer** | **DevSecOps** | **Full-stack Development**
 
 ---
 
 ## 🚀 About Me
 
-I am a technology student with hands-on experience as a **Full-Stack Intern at Aonet** and **DevsecOps intern at CompassUOL**, where I worked with secure development environments and cloud operations. Throughout my academic and professional journey, I have been focusing my studies on **Game Development** in programming using Godot to developing games and studying pixel art.  
+I am a technology student with hands-on experience as a **Full-Stack Intern at Aonet** and **DevsecOps intern at CompassUOL**, where I worked with secure development environments and cloud operations. Throughout my academic and professional journey, I have been focusing my studies on **Game Development** in programming using Godot to develop games and studying pixel art.  
 
 I am proactive, passionate about technology, and highly motivated to continuously learn and apply knowledge through practical projects. My goal is to grow professionally while contributing effectively to engineering and security teams.
 
