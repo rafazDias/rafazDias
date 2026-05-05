@@ -2,7 +2,7 @@
 
 🎓 **Systems Analysis and Development student**
 
-🔐 **Aspiring Game developer** | **DevSecOps** | **Full-stack Development**
+🎮 **Aspiring Game developer** | **DevSecOps** | **Full-stack Development**
 
 ---
 
@@ -15,6 +15,13 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 ---
 
 ## 🛠️ Skills & Technologies
+
+
+### 🎮 Game Development
+
+* Godot
+* Pixel art
+
 
 ### 💻 Programming Languages
 
@@ -48,8 +55,3 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 * Offensive Security concepts and vulnerability analysis
 * **OSINT(Open-source intelligence)**
 * Web Hacking
-
-### 🎮 Game Development
-
-* Godot
-* Pixel art
