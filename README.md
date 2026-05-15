@@ -19,8 +19,8 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 
 ### 🎮 Game Development
 
-* Godot
-* Pixel art
+* **Godot**
+* **Pixel art**
 
 
 ### 💻 Programming Languages
