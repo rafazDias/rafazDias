@@ -2,7 +2,7 @@
 
 🎓 **Systems Analysis and Development student**
 
-🎮 **Aspiring Game developer** | **DevSecOps** | **Full-stack Developer**
+🎮 **Full-stack Developer**| **Aspiring Game developer** | **DevSecOps** | 
 
 ---
 
