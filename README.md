@@ -16,18 +16,18 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 
 ## 🛠️ Skills & Technologies
 
+### 💻 Programming Languages
+
+* **PHP**
+* **Python**
+* **Typescript**
+
 
 ### 🎮 Game Development
 
 * **Godot**
 * **Pixel art**
 
-
-### 💻 Programming Languages
-
-* **PHP**
-* **Python**
-* **Typescript**
 
 ### 🧰 Framework
 * **Laravel(Livewire,Sail,Horizon)**
