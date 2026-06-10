@@ -2,7 +2,7 @@
 
 🎓 **Systems Analysis and Development student**
 
-🎮 **Aspiring Game developer** | **DevSecOps** | **Full-stack Development**
+🎮 **Aspiring Game developer** | **DevSecOps** | **Full-stack Developer**
 
 ---
 
@@ -54,4 +54,3 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 * Information Security fundamentals
 * Offensive Security concepts and vulnerability analysis
 * **OSINT(Open-source intelligence)**
-* Web Hacking
