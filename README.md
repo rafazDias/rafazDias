@@ -2,7 +2,7 @@
 
 🎓 **Systems Analysis and Development student**
 
-🎮 **Full-stack Developer**| **Aspiring Web3 developer** | **DevSecOps** | 
+🎮 **Full-stack Developer**| **Aspiring Red Team operator** | **DevSecOps** | 
 
 ---
 
