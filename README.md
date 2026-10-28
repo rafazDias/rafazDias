@@ -20,6 +20,7 @@ I am proactive, passionate about technology, and highly motivated to continuousl
 
 * **PHP**
 * **Python**
+* **C++**
 * **Typescript**
 
 
